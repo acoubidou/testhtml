@@ -1,4 +1,7 @@
-background-color: Aliceblue;
+body
+{
+    background-color: Aliceblue;
+}
 h1
 {
     text-align: center;
