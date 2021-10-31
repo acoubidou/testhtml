@@ -10,8 +10,22 @@ h1
     background-color: black;
     color: white;
 }
+h2
+{
+    text-align: center;
+    font-size: 100%;
+    color: black;
+}
 p
 {
     font-family: Futura;
     color: black;
+}
+header
+{
+     background: grey;
+     height: 50px;
+     width: 100%;
+	 margin: 0;
+     padding: 20px;
 }
