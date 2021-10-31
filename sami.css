@@ -5,10 +5,11 @@ body
 h1
 {
     text-align: center;
-    background-color: blue;
+    background-color: black;
+    color: white;
 }
 p
 {
-    font-family: Verdana;
-    color: red;
+    font-family: Futura;
+    color: black;
 }
